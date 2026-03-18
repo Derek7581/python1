@@ -1,4 +1,4 @@
-# python1
+# python
 code from CIT-115
 
 List of codes:
@@ -9,3 +9,5 @@ List of codes:
 -Code Compounding Interest
 -Code Paint Job with Functions and Output Files
 -Code Lists and Real Estate Analyzer
+-Code Password Validator
+-Code InterPlanetary Weights using dictionaries
